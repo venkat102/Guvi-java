@@ -16,7 +16,7 @@ public class even_odd {
         }
         else if(a%2==0)
         {
-            System.out.println("Even0");
+            System.out.println("Even");
         }
         
     }
